@@ -4,3 +4,5 @@ type ExampleEntity @entity {
   partnerId: BigInt! # uint256
   initiator: Bytes! # address
 }
+
+
