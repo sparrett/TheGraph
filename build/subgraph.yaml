@@ -16,6 +16,7 @@ dataSources:
         - FeeChanged
         - OwnershipTransferred
         - Swap
+        - SwapEntity
       abis:
         - name: SwappaRouterV1
           file: SwappaRouterV1/abis/SwappaRouterV1.json

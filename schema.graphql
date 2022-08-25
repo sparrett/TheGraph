@@ -5,4 +5,10 @@ type ExampleEntity @entity {
   initiator: Bytes! # address
 }
 
+type SwapEntity @entity {
+  id: ID!
+}
+
+
+
 
